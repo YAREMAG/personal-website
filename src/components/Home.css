@@ -22,4 +22,11 @@
     margin-bottom: 5px; /* Reduce the space between bullet points */
     line-height: 1.2; /* Adjust line height for closer spacing */
   }
-  
+.background-lines {
+    position: absolute; /* Position it absolutely */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; /* Send it to the back */
+  }
