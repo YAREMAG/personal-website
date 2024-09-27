@@ -34,7 +34,6 @@ const Birds = () => {
               src={image} 
               alt={`Bird ${index + 1}`} 
               className="image" 
-              loading="lazy" // Add this line
             />
           </div>
         ))}
