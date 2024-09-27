@@ -3,11 +3,33 @@
   padding: 20px;
 }
 
-.App-header {
-  background-color: #282c34;
-  color: white;
+.App {
+  text-align: center;
   padding: 20px;
-  border-radius: 8px;
+}
+
+.App-header {
+  max-width: 800px; /* Set a maximum width for the header */
+  margin: 0 auto;   /* Center the header horizontally */
+  background-color: #282c34; /* Background color for the navbar */
+  color: white;     /* Text color */
+  padding: 15px;    /* Padding around the navbar */
+  border-radius: 15px; /* Optional: add rounded corners */
+  z-index: 1000;    /* Ensure it stays above other content */
+  position: relative;
+}
+
+section {
+  margin: 100px 0; /* Increase margin to avoid content hiding behind the fixed navbar */
+}
+
+a {
+  color: #838383;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 section {

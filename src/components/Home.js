@@ -5,13 +5,13 @@ import { BackgroundLines } from "./ui/BackgroundLines"; // Adjust path according
 
 function Home() {
   return (
-    <BackgroundLines className="flex items-center justify-center w-full h-screen flex-col px-4"> {/* Full height for better visibility */}
-      <div className="background-content relative z-10"> {/* Add relative and z-index */}
-        <h1 className= "bg-clip-text text-transparent text-center bg-gradient-to-b from-neutral-900 to-neutral-700 dark:from-neutral-600 dark:to-white text-2xl md:text-4xl lg:text-7xl font-sans py-2 md:py-10 relative z-20 font-bold tracking-tight">Welcome to My Personal Website</h1>
+    <BackgroundLines className="flex items-center justify-center w-full flex-col px-4"> {/* Removed h-screen */}
+      <div className="background-content relative z-0"> {/* Add relative and z-index */}
+        <h1 className="bg-clip-text text-transparent text-center bg-gradient-to-b from-neutral-900 to-neutral-700 dark:from-neutral-600 dark:to-white text-2xl md:text-4xl lg:text-7xl font-sans font-bold tracking-tight">
+          Welcome to My Personal Website
+        </h1>
         <p>Hello! I'm Jeremy, a data enthusiast and web developer.</p>
-        
         <img src={myPicture} alt="A picture of me" className="profile-picture" />
-        
         <h2>What You Can Find on This Website:</h2>
         <ul className="bullet-points">
           <li>About Me</li>
