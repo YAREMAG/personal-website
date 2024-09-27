@@ -1,0 +1,35 @@
+.about {
+  font-family: 'Times New Roman', Times, serif; /* Set font style */
+  color: #333; /* Text color for better contrast */
+  padding: 20px;
+  background-image: url('../images/columbia-crown.png'); /* Adjust the path */
+  height: 50vh;
+  background-size: 300px auto;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat;
+  position: relative; /* Position relative for pseudo-element */
+}
+
+.about::before {
+  content: ''; /* Create a pseudo-element for the blur effect */
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(255, 255, 255, 0.5); /* Optional: Add a white overlay for contrast */
+  backdrop-filter: blur(5px); /* Adjust blur intensity */
+  z-index: 0; /* Place behind the text */
+}
+
+.about h2{
+  font-size: 3rem;
+  position: relative; /* Bring text above the pseudo-element */
+  z-index: 1; /* Make sure text is above the blurred background */
+}
+
+.about p {
+  font-size: 1.2rem;
+  position: relative; /* Bring text above the pseudo-element */
+  z-index: 1; /* Make sure text is above the blurred background */
+}

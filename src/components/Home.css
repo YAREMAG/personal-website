@@ -1,0 +1,25 @@
+.home {
+    padding: 20px;
+    background-color: rgb(255, 255, 255); /* Adjust as needed */
+    text-align: center; /* Center align text */
+  }
+  
+  .profile-picture {
+    max-width: 200px; /* Adjust the size as needed */
+    border-radius: 50%; /* Optional: make the image round */
+    margin: 20px 0; /* Add spacing above and below the image */
+  }
+  
+  .bullet-points {
+    list-style-type: disc; /* Use bullet points */
+    padding-left: 0; /* Remove left padding */
+    margin-top: 10px; /* Reduce spacing above bullet points */
+    display: inline-block; /* Make the list take only necessary width */
+    text-align: left; /* Align text to the left */
+  }
+  
+  .bullet-points li {
+    margin-bottom: 5px; /* Reduce the space between bullet points */
+    line-height: 1.2; /* Adjust line height for closer spacing */
+  }
+  
