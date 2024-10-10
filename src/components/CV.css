@@ -3,7 +3,9 @@
 
   color: #333; /* Text color for better contrast */
 }
-
+h1{
+  font-size: 2rem;
+}
 .cv h2 {
   text-align: center; /* Center the heading */
 }

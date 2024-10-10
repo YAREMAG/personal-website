@@ -16,12 +16,13 @@ function Contact() {
 
   return (
     <div>
-      <h2>Contact</h2>
+      <h1>Contact</h1>
       <p>
         You can reach me at 
         <span 
-          style={{ cursor: 'pointer'}} 
+          style={{ cursor: 'pointer', textDecoration: 'underline'}} 
           onClick={copyEmailToClipboard}
+
         >
           {` ${email}`}
         </span>
