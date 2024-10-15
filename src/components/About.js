@@ -1,6 +1,6 @@
 import React from 'react';
 import './About.css'; // Ensure you have a corresponding CSS file
-import { BackgroundLines } from "./ui/BackgroundLines"; // Adjust path accordingly
+import {BackgroundLines} from "./ui/BackgroundLines"; // Adjust path accordingly
 
 function About() {
   return (

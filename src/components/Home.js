@@ -1,7 +1,7 @@
 import React from 'react';
 import './Home.css'; // Your custom CSS file
 import myPicture from '../images/headshot.jpg'; // Ensure this path is correct
-import { BackgroundLines } from "./ui/BackgroundLines"; // Adjust path accordingly
+import {BackgroundLines} from "./ui/BackgroundLines"; // Adjust path accordingly
 
 function Home() {
   return (
