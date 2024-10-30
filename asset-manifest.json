@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/home/static/css/main.24d01285.css",
-    "main.js": "/home/static/js/main.c0b6dde9.js",
+    "main.js": "/home/static/js/main.7dd4fa44.js",
     "static/js/453.253ccfac.chunk.js": "/home/static/js/453.253ccfac.chunk.js",
     "static/media/resume.pdf": "/home/static/media/resume.03b570835a4e73f3e011.pdf",
     "static/media/columbia-crown.png": "/home/static/media/columbia-crown.c7256faf71909fff0609.png",
     "index.html": "/home/index.html",
     "main.24d01285.css.map": "/home/static/css/main.24d01285.css.map",
-    "main.c0b6dde9.js.map": "/home/static/js/main.c0b6dde9.js.map",
+    "main.7dd4fa44.js.map": "/home/static/js/main.7dd4fa44.js.map",
     "453.253ccfac.chunk.js.map": "/home/static/js/453.253ccfac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.24d01285.css",
-    "static/js/main.c0b6dde9.js"
+    "static/js/main.7dd4fa44.js"
   ]
 }
