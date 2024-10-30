@@ -5,13 +5,12 @@ import Home from './components/Home';
 import About from './components/About';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
-
 import Charts from './components/Charts';
 import CV from './components/CV';
 
 function App() {
   return (
-    <Router>
+    <Router basename='/personal-website'>
       <div className="App">
         <header className="App-header">
           <nav>
