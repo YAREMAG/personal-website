@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.b3604a28.css",
-    "main.js": "/static/js/main.788770b8.js",
-    "static/js/453.253ccfac.chunk.js": "/static/js/453.253ccfac.chunk.js",
-    "static/media/resume.pdf": "/static/media/resume.03b570835a4e73f3e011.pdf",
-    "static/media/columbia-crown.png": "/static/media/columbia-crown.c7256faf71909fff0609.png",
-    "index.html": "/index.html",
-    "main.b3604a28.css.map": "/static/css/main.b3604a28.css.map",
-    "main.788770b8.js.map": "/static/js/main.788770b8.js.map",
-    "453.253ccfac.chunk.js.map": "/static/js/453.253ccfac.chunk.js.map"
+    "main.css": "/home/static/css/main.24d01285.css",
+    "main.js": "/home/static/js/main.c0b6dde9.js",
+    "static/js/453.253ccfac.chunk.js": "/home/static/js/453.253ccfac.chunk.js",
+    "static/media/resume.pdf": "/home/static/media/resume.03b570835a4e73f3e011.pdf",
+    "static/media/columbia-crown.png": "/home/static/media/columbia-crown.c7256faf71909fff0609.png",
+    "index.html": "/home/index.html",
+    "main.24d01285.css.map": "/home/static/css/main.24d01285.css.map",
+    "main.c0b6dde9.js.map": "/home/static/js/main.c0b6dde9.js.map",
+    "453.253ccfac.chunk.js.map": "/home/static/js/453.253ccfac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3604a28.css",
-    "static/js/main.788770b8.js"
+    "static/css/main.24d01285.css",
+    "static/js/main.c0b6dde9.js"
   ]
 }
