@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/person-website/static/css/main.2cc699ec.css",
-    "main.js": "/person-website/static/js/main.6ce4a9cb.js",
-    "static/js/453.253ccfac.chunk.js": "/person-website/static/js/453.253ccfac.chunk.js",
-    "static/media/resume.pdf": "/person-website/static/media/resume.03b570835a4e73f3e011.pdf",
-    "static/media/columbia-crown.png": "/person-website/static/media/columbia-crown.c7256faf71909fff0609.png",
-    "index.html": "/person-website/index.html",
-    "main.2cc699ec.css.map": "/person-website/static/css/main.2cc699ec.css.map",
-    "main.6ce4a9cb.js.map": "/person-website/static/js/main.6ce4a9cb.js.map",
-    "453.253ccfac.chunk.js.map": "/person-website/static/js/453.253ccfac.chunk.js.map"
+    "main.css": "/personal-website/static/css/main.76974ef5.css",
+    "main.js": "/personal-website/static/js/main.027135f7.js",
+    "static/js/453.253ccfac.chunk.js": "/personal-website/static/js/453.253ccfac.chunk.js",
+    "static/media/resume.pdf": "/personal-website/static/media/resume.03b570835a4e73f3e011.pdf",
+    "static/media/columbia-crown.png": "/personal-website/static/media/columbia-crown.c7256faf71909fff0609.png",
+    "index.html": "/personal-website/index.html",
+    "main.76974ef5.css.map": "/personal-website/static/css/main.76974ef5.css.map",
+    "main.027135f7.js.map": "/personal-website/static/js/main.027135f7.js.map",
+    "453.253ccfac.chunk.js.map": "/personal-website/static/js/453.253ccfac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2cc699ec.css",
-    "static/js/main.6ce4a9cb.js"
+    "static/css/main.76974ef5.css",
+    "static/js/main.027135f7.js"
   ]
 }
